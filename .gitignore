@@ -9,3 +9,6 @@ build/
 
 # mac
 .DS_Store
+
+# resources
+.csv
